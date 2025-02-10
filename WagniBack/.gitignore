@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environnement variables
+.env
+
+# Fichiers de compilation
+dist/
+build/
+
+# Fichiers de débogage
+*.log
+logs/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# IDE/Editeur de texte
+.vscode/
+.idea/
+
+# Fichiers de couverture de test
+coverage/
+
+# Fichiers de cache
+.cache/
+
+# Fichiers de configuration local
+*.local
+
+# Fichiers de téléchargement (multer)
+uploads/
